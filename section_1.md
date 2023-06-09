@@ -41,6 +41,12 @@ ordered list
 4. five
 
 unordered list
+
 - one
 - two
 - three
+
+* one
+* two
+* three
+*
