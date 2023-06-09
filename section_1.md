@@ -32,8 +32,10 @@ ordered list
 1. one 
 2. two
 
- i. indented 
+ i. indented
+ 
  ii. indented item
+
 4. three
 5. four
 
@@ -52,4 +54,10 @@ unordered list
 * one
 * two
 * three
-*
+ 
+| syntax | description |
+|........|..........|
+| header | title |
+| header | title |
+
+Use footnote to provide information . 
