@@ -56,8 +56,11 @@ unordered list
 * three
  
 | syntax | description |
+
 |........|..........|
+
 | header | title |
+
 | header | title |
 
 Use footnote to provide information . 
