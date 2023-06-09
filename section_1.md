@@ -19,7 +19,7 @@ I really like using mARKDOWN
 
 ###### Lifetime Access
 
-***Important***text
+***Important*** text
 
 _Important_text
 
